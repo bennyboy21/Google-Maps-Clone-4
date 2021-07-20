@@ -1,0 +1,45 @@
+body {
+  background-color: #ff3636;
+}
+
+.HereNowLogo {
+  background-color: #ff3838;
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  top: 0%;
+  left: 26%;
+}
+
+.NameTextBox {
+  height: 5%;
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 30%;
+}
+
+.LastNameTextBox {
+  height: 5%;
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 38%;
+}
+
+.PasswordTextBox {
+  height: 5%;
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 46%;
+}
+
+.SubmitButton {
+  background: #ff2424;
+  height: 4%;
+  width: 16%;
+  position: absolute;
+  top: 57%;
+  left: 43%;
+}
